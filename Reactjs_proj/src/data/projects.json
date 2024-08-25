@@ -1,0 +1,25 @@
+[
+    {
+      "title": "Whatsapp Beyond Basics",
+      "imageSrc": "project/project.png",
+      "description": "This app lets us to send a message at a scheduled time.",
+      "skills": ["HTML", "CSS", "JavaScript"],
+      "demo": "https://unique-babka-2f1dde.netlify.app/",
+      "source": "https://github.com/Vinaya004/Vinaya/tree/main/whatsappchat"
+    },
+    {
+      "title": "Blogging website",
+      "imageSrc": "project/project.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["React", "Express", "Node"]
+      
+    },
+    {
+      "title": "API for ecommerce",
+      "imageSrc": "project/project.png",
+      "description": "This is a project made to learn Node and MongoDB by building an API.",
+      "skills": ["Express", "Node","MongoDB"]
+
+
+    }
+  ]
